@@ -7,6 +7,14 @@
 
 - [Burp suite introduction by @InsiderPhD](https://www.youtube.com/playlist?list=PLbyncTkpno5FwsKpcaiXBvmG2r75RLGo3)
 
+## Write-ups
+
+## Bug bounty Tips
+
+## Cheat Sheet
+
+## Bug Bounty Platform List
+
 ## YouTube Channels
 
 - [Stok](https://www.youtube.com/channel/UCQN2DsjnYH60SFBIA6IkNwg?pbjreload=101)
