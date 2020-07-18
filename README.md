@@ -31,7 +31,7 @@
 
 - [Hacking Simplified](https://m.youtube.com/channel/UCARsgS1stRbRgh99E63Q3ng)
 
-- [Farah huwa](https://m.youtube.com/channel/UCq9IyPMXiwD8yBFHkxmN8zg)
+- [Farah hawa](https://m.youtube.com/channel/UCq9IyPMXiwD8yBFHkxmN8zg)
 
 - [Pwnfunction](https://m.youtube.com/channel/UCW6MNdOsqv2E9AjQkv9we7A)
 
