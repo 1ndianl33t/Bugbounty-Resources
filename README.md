@@ -12,6 +12,11 @@
 ## Bug bounty Tips
 
 ## Cheat Sheet
+- [Java-Deserialization-Cheat-Sheet](https//github.com/GrrrDog/Java-Deserialization-Cheat-Sheet)
+
+- [EdOverflow bugbounty-cheatsheet](https://github.com/EdOverflow/bugbounty-cheatsheet)
+
+- [m0chan Bugbounty Cheatsheet](https://m0chan.github.io/2019/12/17/Bug-Bounty-Cheetsheet.html)
 
 ## Bug Bounty Platform List
 
