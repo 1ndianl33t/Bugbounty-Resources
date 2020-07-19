@@ -39,6 +39,8 @@
 
 - [The Cyber Mentor](https://m.youtube.com/channel/UC0ArlFuFYMpEewyRBzdLHiw)
 
+- [The XSS rat](https://m.youtube.com/channel/UCjBhClJ59W4hfUly51i11hg)
+
 ## GitHub Repository
 
 - [TomNomNom](https://github.com/tomnomnom)
