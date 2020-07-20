@@ -20,6 +20,42 @@
 
 ## Bug Bounty Platform List
 
+- [HackerOne](www.hackerone.com)
+
+- [Bugcrowd] (www.bugcrowd.com)
+
+- [Synack](www.synack.com/red-team)
+
+- [Intigriti]( www.intigriti.com)
+
+- [Detectify](cs.detectify.com)
+
+- [Cobalt](cobalt.io)
+
+- [Open Bug Bounty](www.openbugbounty.org)
+
+- [Zerocopter](www.zerocopter.com)
+
+- [YesWeHack](www.yeswehack.com)
+
+- [VHacken Proof](hackenproof.com)
+
+- [Vulnerability Lab](www.vulnerability-lab.com)
+
+- [FireBounty](firebounty.com)
+
+- [BugBountyjp](bugbounty.jp)
+
+- [AntiHACK](www.antihack.me)
+
+- [SafeHats](safehats.com)
+
+-[RedStorm](wwvw.redstorm.io)
+
+- [Cyber Army ID](www.cyberarmy.id)
+
+- [Yogosha](yogosha.com)
+
 ## YouTube Channels
 
 - [Stok](https://www.youtube.com/channel/UCQN2DsjnYH60SFBIA6IkNwg?pbjreload=101)
