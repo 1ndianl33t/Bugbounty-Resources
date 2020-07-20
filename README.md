@@ -22,11 +22,11 @@
 
 - [HackerOne](www.hackerone.com)
 
-- [Bugcrowd] (www.bugcrowd.com)
+- [Bugcrowd](www.bugcrowd.com)
 
 - [Synack](www.synack.com/red-team)
 
-- [Intigriti]( www.intigriti.com)
+- [Intigriti](www.intigriti.com)
 
 - [Detectify](cs.detectify.com)
 
