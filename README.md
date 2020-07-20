@@ -1,7 +1,7 @@
 # Bugbounty-Resources
 
 ## Burp suite training
-- [Hackerone burp suite 101](https//www.youtube.com/playlist?list=PLxhvVyxYRviajtnHaICLg_ZcY47TpgGjR)
+- [Hackerone burp suite 101](https://m.youtube.com/playlist?list=PLxhvVyxYRviajtnHaICLg_ZcY47TpgGjR)
 - [Bugcrowd university - introduction to burp suite](https://youtu.be/h2duGBZLEek)
 - [Bugcrowd university - advance burp suite](https://youtu.be/kbi2KaAzTLg)
 
@@ -20,41 +20,41 @@
 
 ## Bug Bounty Platform List
 
-- [HackerOne](www.hackerone.com)
+- [HackerOne](https://www.hackerone.com)
 
-- [Bugcrowd](www.bugcrowd.com)
+- [Bugcrowd](https://www.bugcrowd.com)
 
-- [Synack](www.synack.com/red-team)
+- [Synack](https://www.synack.com/red-team)
 
-- [Intigriti](www.intigriti.com)
+- [Intigriti](https://www.intigriti.com)
 
-- [Detectify](cs.detectify.com)
+- [Detectify](https://cs.detectify.com)
 
-- [Cobalt](cobalt.io)
+- [Cobalt](https://cobalt.io)
 
-- [Open Bug Bounty](www.openbugbounty.org)
+- [Open Bug Bounty](https://www.openbugbounty.org)
 
-- [Zerocopter](www.zerocopter.com)
+- [Zerocopter](https://www.zerocopter.com)
 
-- [YesWeHack](www.yeswehack.com)
+- [YesWeHack](https://www.yeswehack.com)
 
-- [VHacken Proof](hackenproof.com)
+- [VHacken Proof](https://hackenproof.com)
 
-- [Vulnerability Lab](www.vulnerability-lab.com)
+- [Vulnerability Lab](https://www.vulnerability-lab.com)
 
-- [FireBounty](firebounty.com)
+- [FireBounty](https://firebounty.com)
 
-- [BugBountyjp](bugbounty.jp)
+- [BugBountyjp](https://bugbounty.jp)
 
-- [AntiHACK](www.antihack.me)
+- [AntiHACK](https://www.antihack.me)
 
-- [SafeHats](safehats.com)
+- [SafeHats](https://safehats.com)
 
-- [RedStorm](wwvw.redstorm.io)
+- [RedStorm](https://wwvw.redstorm.io)
 
-- [Cyber Army ID](www.cyberarmy.id)
+- [Cyber Army ID](https://www.cyberarmy.id)
 
-- [Yogosha](yogosha.com)
+- [Yogosha](https://yogosha.com)
 
 ## YouTube Channels
 
