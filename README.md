@@ -1,16 +1,16 @@
 # Bugbounty-Resources
 
 ## Web Security Topics for selfstudy
-- [ [+] Cache Poisoning]
-- [ [+] Cash Overflow]
-- [ [+] Clickjacking]
-- [ [+] Command injection attacks]
-- [ [+] Comment Injection Attack]
-- [ [+] Content Security Policy]
-- [ [+] Content Spoofing]
-- [ [+] Credential stuffing]
+- [ [+] Cache Poisoning]()
+- [ [+] Cash Overflow]()
+- [ [+] Clickjacking]()
+- [ [+] Command injection attacks]()
+- [ [+] Comment Injection Attack]()
+- [ [+] Content Security Policy]()
+- [ [+] Content Spoofing]()
+- [ [+] Credential stuffing]()
 
-## Burp suite training
+## Burp suite trainings
 - [Hackerone burp suite 101](https://m.youtube.com/playlist?list=PLxhvVyxYRviajtnHaICLg_ZcY47TpgGjR)
 - [Bugcrowd university - introduction to burp suite](https://youtu.be/h2duGBZLEek)
 - [Bugcrowd university - advance burp suite](https://youtu.be/kbi2KaAzTLg)
