@@ -10,6 +10,14 @@
 - [ [+] Content Spoofing]()
 - [ [+] Credential stuffing]()
 
+## Vulnerable Web Application
+
+- [DVWA](http://www.dvwa.co.uk/)
+- [bWAPP](http://www.itsecgames.com/)
+- [XVWA](https://github.com/s4n7h0/xvwa)
+- [OWASP Mutillidae II](https://github.com/webpwnized/mutillidae)
+- [WebGoat](https://github.com/WebGoat/WebGoat)
+
 ## Burp suite trainings
 - [Hackerone burp suite 101](https://m.youtube.com/playlist?list=PLxhvVyxYRviajtnHaICLg_ZcY47TpgGjR)
 - [Bugcrowd university - introduction to burp suite](https://youtu.be/h2duGBZLEek)
@@ -18,6 +26,9 @@
 - [Burp suite introduction by @InsiderPhD](https://www.youtube.com/playlist?list=PLbyncTkpno5FwsKpcaiXBvmG2r75RLGo3)
 
 ## Write-ups
+
+- [Pentester.land](https://pentester.land/list-of-bug-bounty-writeups.html)
+- [ysamm](https://ysamm.com/)
 
 ## Bug bounty Tips
 
@@ -123,9 +134,10 @@ You can encourage me to contribute more to the open source with donations.
 
 `8085778875`
 
-### Contributers
+### Contributors
 
-
+<a href="https://github.com/rzkytmgr">
+ <img src="https://avatars1.githubusercontent.com/u/56517576?s=460&v=4" title="Rizky" width="35" height="35"></a>
 
 
 ### Contact
